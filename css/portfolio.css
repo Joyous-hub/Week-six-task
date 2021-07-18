@@ -1,0 +1,31 @@
+
+
+body{
+    height: 100vh;
+    background: url(../images/number1.gif);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.intro-left{
+    background-color: rgba(2, 2, 44, 0.9);
+    position: fixed;
+    left:0px;
+    width: 27%;
+}
+.sidebar{
+    height: 100%;
+}
+
+img{
+    width: 13rem;
+    border-radius: 50%;
+}
+
+footer, nav{
+    background-color: rgba(187, 187, 223, 0.9);
+}
+.nav-space{
+    margin: 0.6%;
+
+}
